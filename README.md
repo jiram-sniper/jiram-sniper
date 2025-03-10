@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerame Labid</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A Humble boy from Philippines</h3>
 
 - 🌱 I’m currently learning **HTML, Java Programming, CSS**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/Jerame27/**
 
-- ⚡ Fun fact **I AM QUPAL**
+- ⚡ Fun fact **TOP 1 CAVITE UPPERMOON CLASS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
