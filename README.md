@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working out at the gym ♍<br>🌱 I’m currently learning on Java programming ❤. <br>💬 Ask me about anything about life 💚.<br>⚡ Fun fact : Gymrat 👾
+🔭 I'm currently working out at the gym ♍<br>🌱 I’m currently learning on Java programming ❤. <br>💬 Ask me anything about life 💚.<br>⚡ Fun fact : Gymrat 👾
 
 
 ## 🌐 Socials:
