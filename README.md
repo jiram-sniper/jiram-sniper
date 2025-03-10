@@ -1,4 +1,15 @@
-# 💫 About Me:
+# ![Header Banner](![image](https://github.com/user-attachments/assets/a3cf3f55-807a-4261-8291-c67ed640a2b5)
+)
+
+<h1 align="center"> 🚀 Jerame Developer </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" />
+  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social" />
+  <img src="https://img.shields.io/github/license/your-username/your-repo" />
+</p> 
+
+💫 About Me:
 🔭 I'm currently working out at the gym ♍<br>🌱 I’m currently learning on Java programming ❤. <br>💬 Ask me anything about life 💚.<br>⚡ Fun fact : Gymrat 👾
 
 📞 Contact: 09551543922 <br>
