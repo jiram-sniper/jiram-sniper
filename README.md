@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I'm currently working out at the gym ♍<br>🌱 I’m currently learning on Java programming ❤. <br>💬 Ask me anything about life 💚.<br>⚡ Fun fact : Gymrat 👾
 
-📞 Contact: 09551543922
-📧 Email: labidjerame27@gmail.com
-🐦 Instagram: @jiramnocounter
-🌎 Website: jeramewebsite.com
+📞 Contact: 09551543922 <br>
+📧 Email: labidjerame27@gmail.com <br>
+🐦 Instagram: @jiramnocounter <br>
+🌎 Website: jeramewebsite.com <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Jerame27/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiramnocounter) 
